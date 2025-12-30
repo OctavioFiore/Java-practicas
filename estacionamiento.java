@@ -37,7 +37,7 @@ public class estacionamiento {
 
                     System.out.println("Ingrese la cantidad de horas");
                     cantHoras = teclado.nextInt();
-                    teclado.nextLine(); // LIMPIA ENTER
+                    teclado.nextLine(); 
 
                     valor = cantHoras * 3;
 
